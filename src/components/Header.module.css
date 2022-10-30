@@ -1,0 +1,23 @@
+.header {
+  padding: 2rem;
+  background: rgb(31, 112, 105);
+  color: white;
+}
+.nav {
+}
+.listCover {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  gap: 3rem;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.active {
+  color: rgb(181, 235, 217);
+}
